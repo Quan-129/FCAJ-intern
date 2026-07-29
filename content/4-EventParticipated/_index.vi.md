@@ -40,3 +40,13 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
+
+
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** FCAJ — Agentic AI Build Week: Ngày Demo & Pitch
+
+&emsp;**Thời gian:** 25/07/2026
+
+&emsp;**Địa điểm:** Văn phòng AWS Việt Nam
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự
