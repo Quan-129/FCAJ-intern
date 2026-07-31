@@ -11,7 +11,7 @@ pre: " <b> 8. </b> "
 | Hạng mục | Link |
 |---|---|
 | 🌐 Website demo (Amplify Hosting) | <https://staging.d1aznu46odat7f.amplifyapp.com/> — *hiện không truy cập được: toàn bộ tài nguyên AWS đã bị xoá ngày 30/07/2026 ở bước tối ưu chi phí mục 5.6. Mọi màn hình đều đã chụp lại ở mục 5.5.* |
-| 💻 Source code — `fcaj-moderation` (Lambda container + frontend React) | <https://github.com/dangkhoi-dev/FCAJ-intern> |
+| 💻 Source code — `fcaj-moderation` (Lambda container + frontend React) | <https://github.com/quan-129/FCAJ-intern> |
 | 📓 Notebook huấn luyện `train_text_classifier.ipynb` | <https://github.com/dangkhoi-dev/FCAJ-intern/blob/main/train_text_classifier.ipynb> |
 | 📝 Blog 1 — Xây dựng hệ thống kiểm duyệt nội dung serverless với Lambda + Amazon Bedrock (Trần Phan Đăng Khôi) | Đăng ngày 28/07/2026 trong group [AWS Study Group VN](https://www.facebook.com/groups/awsstudygroupfcj) — *đang chờ duyệt; link post cố định sẽ bổ sung khi bài được đăng* |
 | 📝 Blog 2 — Từ React tới người dùng: Amplify Hosting, API Gateway và CloudWatch (Lê Đức) | Đăng ngày 28/07/2026 trong group [AWS Study Group VN](https://www.facebook.com/groups/awsstudygroupfcj) — *đang chờ duyệt* |
