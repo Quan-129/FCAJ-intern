@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 Trong suốt thời gian thực tập tại **First Cloud AI Journey** từ **15/06** đến **14/08**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng trực tiếp các kiến thức nền tảng về Khoa học Máy tính đã được trang bị vào môi trường làm việc thực tế.
 
-Tôi đã tham gia vào dự án **[điền mô tả ngắn: ví dụ - nghiên cứu mô hình Machine Learning dự báo xu hướng / phát triển hệ thống phần mềm]**, qua đó cải thiện mạnh mẽ các kỹ năng chuyên môn như **lập trình (Python, TypeScript, React, SQL), áp dụng nghiêm ngặt các nguyên tắc Clean Code vào quá trình phát triển**, cũng như nâng cao năng lực phân tích hệ thống và kỹ năng làm việc nhóm.
+Tôi đã tham gia **phát triển Nền tảng kiểm duyệt văn bản độc hại (Toxic Text Moderation Platform) theo kiến trúc serverless** trên AWS, sử dụng mô hình đa ngôn ngữ đã được tinh chỉnh (fine-tuned) và Amazon Bedrock. Qua dự án này, tôi đã cải thiện đáng kể các kỹ năng kỹ thuật của mình như lập trình **Python để suy luận mô hình AI, React để triển khai frontend và NoSQL với DynamoDB**, áp dụng nghiêm ngặt các nguyên tắc Clean Code trong quá trình phát triển, cũng như nâng cao năng lực phân tích hệ thống đám mây và kỹ năng làm việc nhóm.
 
 Về tác phong, tôi luôn nỗ lực hoàn thành tốt nhiệm vụ được giao, tuân thủ các quy định của tổ chức và chủ động trao đổi với đồng nghiệp, cấp trên để tối ưu hóa hiệu suất công việc.
 
