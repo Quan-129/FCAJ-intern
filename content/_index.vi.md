@@ -10,13 +10,13 @@ chapter: false
 
 &emsp; **Họ và tên:** Trần Bá Minh Quân
 
-&emsp; **Số điện thoại:** 0906926122
+&emsp; **Số điện thoại:** 0906026122
 
 &emsp; **Email:** minhquan12092005@gmail.com
 
 &emsp; **Trường:** Đại học Bách Khoa TP.HCM
 
-&emsp; **Ngành:** Khoa học máy tính
+&emsp; **Ngành:** Khoa học Máy tính
 
 &emsp; **Lớp:** CN23KHM2
 
@@ -30,10 +30,11 @@ chapter: false
 
 ### Nội dung báo cáo
 
-1. [Worklog](1-Worklog/)
-2. [Proposal](2-Proposal/)
-3. [Các bài blogs đã đăng](3-BlogsPosted/)
-4. [Các events đã tham gia](4-EventParticipated/)
-5. [Workshop](5-Workshop/)
-6. [Tự đánh giá](6-Self-evaluation/)
-7. [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+1. [Worklog](1-worklog/)
+2. [Proposal](2-proposal/)
+3. [Các bài blogs đã đăng](3-blogsposted/)
+4. [Các events đã tham gia](4-eventparticipated/)
+5. [Workshop](5-workshop/)
+6. [Tự đánh giá](6-self-evaluation/)
+7. [Chia sẻ, đóng góp ý kiến](7-feedback/)
+8. [Tài liệu tham khảo](8-references/)
