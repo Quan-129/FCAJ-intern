@@ -1,29 +1,29 @@
 ---
 title: "Báo cáo thực tập"
-date: 2026-07-13
+date: 2024-01-01
 weight: 1
 chapter: false
 ---
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Trần Phan Đăng Khôi
+&emsp; **Họ và tên:** Trần Bá Minh Quân
 
-&emsp; **Số điện thoại:** 0812002998
+&emsp; **Số điện thoại:** 0906926122
 
-&emsp; **Email:** tranphandangkhoi205@gmail.com
+&emsp; **Email:** minhquan12092005@gmail.com
 
-&emsp; **Trường:** Trường Đại học Bách Khoa – ĐHQG TP.HCM (HCMUT)
+&emsp; **Trường:** Đại học Bách Khoa TP.HCM
 
-&emsp; **Ngành:** Khoa học Máy tính (chương trình giảng dạy bằng tiếng Anh)
+&emsp; **Ngành:** Khoa học máy tính
 
-&emsp; **Lớp:** CC23KHM3 — MSSV 2352626
+&emsp; **Lớp:** CN23KHM2
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** 15/06/2026 – 14/08/2026 (theo chương trình đã duyệt, form D2)
+&emsp; **Thời gian thực tập:** Từ ngày 06/2026 đến ngày 09/2026
 
 ![Ảnh đại diện của bạn](/images/avatar.png)
 
@@ -31,11 +31,10 @@ chapter: false
 
 ### Nội dung báo cáo
 
-1.  [Worklog](1-worklog/)
-2.  [Proposal](2-proposal/)
-3.  [Các bài blogs đã đăng](3-blogsposted/)
-4.  [Các events đã tham gia](4-eventparticipated/)
-5.  [Workshop](5-workshop/)
-6.  [Tự đánh giá](6-self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-feedback/)
-8.  [Tài liệu tham khảo](8-references/)
+1.  [Worklog](1-Worklog/)
+2.  [Proposal](2-Proposal/)
+3.  [Các bài blogs đã đăng](3-BlogsPosted/)
+4.  [Các events đã tham gia](4-EventParticipated/)
+5.  [Workshop](5-Workshop/)
+6.  [Tự đánh giá](6-Self-evaluation/)
+7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)

@@ -1,40 +1,44 @@
 ---
 title: "Internship Report"
-date: 2026-07-13
+date: 2024-01-01
 weight: 1
 chapter: false
 ---
 
+    
 # Internship Report
 
+{{% notice warning %}}
+⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
+{{% /notice %}}
+
 ### Student Information:
-&emsp; **Full Name:** Tran Phan Dang Khoi
+&emsp; **Full Name:** Tran Ba Minh Quan
 
-&emsp; **Phone Number:** 0812002998
+&emsp; **Phone Number:** 0906026122 
 
-&emsp; **Email:** tranphandangkhoi205@gmail.com
+&emsp; **Email:** minhquan12092005@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology (HCMUT) — VNU-HCM
+&emsp; **University:** HCM University of Technology (VNUHCM-UT) 
 
-&emsp; **Major:** Computer Science (English-taught programme)
+&emsp; **Major:** Computer Science
 
-&emsp; **Class:** CC23KHM3 — Student ID 2352626
+&emsp; **Class:** CN23KHM2
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** 15/06/2026 – 14/08/2026 (per the approved programme, Form D2)
+&emsp; **Internship Duration:** From 06/2026 to 09/2026
 
 ![Your profile picture](/images/avatar.png)
 
 ### Report Content
 
-1.  [Worklog](1-worklog/)
-2.  [Proposal](2-proposal/)
-3.  [BlogsPosted](3-blogsposted/)
-4.  [Events Participated](4-eventparticipated/)
-5.  [Workshop](5-workshop/)
-6.  [Self-evaluation](6-self-evaluation/)
-7.  [Sharing and Feedback](7-feedback/)
-8.  [References](8-references/)
+1.  [Worklog](1-Worklog/)
+2.  [Proposal](2-Proposal/)
+3.  [BlogsPosted](3-BlogsPosted/)
+4.  [Events Participated](4-EventParticipated/)
+5.  [Workshop](5-Workshop/)
+6.  [Self-evaluation](6-Self-evaluation/)
+7.  [Sharing and Feedback](7-Feedback/)

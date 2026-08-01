@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 During my internship at **First Cloud AI Journey** from **15/06** to **14/08**, I had the opportunity to learn, practice, and directly apply my foundational Computer Science knowledge into a real-world working environment.
 
-I participated in the **[insert short description: e.g., researching Machine Learning models for trend forecasting / developing a software system]** project, through which I significantly improved my technical skills such as **programming (Python, TypeScript, React, SQL), strictly applying Clean Code principles during development**, as well as enhancing my system analysis capabilities and teamwork skills.
+I participated in **developing a serverless Toxic Text Moderation Platform** on AWS utilizing a fine-tuned cross-lingual model and Amazon Bedrock, through which I significantly improved my technical skills such as programming **Python for AI model inference, React for frontend deployment, and NoSQL with DynamoDB**, strictly applying Clean Code principles during development, as well as enhancing my cloud system analysis capabilities and teamwork skills.
 
 Regarding my work attitude, I consistently strove to complete assigned tasks effectively, complied with the organization's regulations, and proactively communicated with colleagues and supervisors to optimize work efficiency.
 
